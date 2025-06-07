@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Chinese developer learner who makes all kind of projects which I am interested in.
+I'm a Chinese developer and learner who makes all kind of projects which I am interested in.
 Don't feel strange in my space, I'm learning too!
 
 <!--
